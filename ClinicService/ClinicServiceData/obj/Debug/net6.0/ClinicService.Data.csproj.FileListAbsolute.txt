@@ -1,0 +1,14 @@
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceData\bin\Debug\net6.0\ClinicService.Data.deps.json
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceData\bin\Debug\net6.0\ClinicService.Data.runtimeconfig.json
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceData\bin\Debug\net6.0\ClinicService.Data.dll
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceData\bin\Debug\net6.0\ClinicService.Data.pdb
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceData\obj\Debug\net6.0\ClinicService.Data.csproj.AssemblyReference.cache
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceData\obj\Debug\net6.0\ClinicService.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceData\obj\Debug\net6.0\ClinicService.Data.AssemblyInfoInputs.cache
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceData\obj\Debug\net6.0\ClinicService.Data.AssemblyInfo.cs
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceData\obj\Debug\net6.0\ClinicService.Data.csproj.CoreCompileInputs.cache
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceData\obj\Debug\net6.0\ClinicService.Data.dll
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceData\obj\Debug\net6.0\refint\ClinicService.Data.dll
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceData\obj\Debug\net6.0\ClinicService.Data.pdb
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceData\obj\Debug\net6.0\ClinicService.Data.genruntimeconfig.cache
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceData\obj\Debug\net6.0\ref\ClinicService.Data.dll
