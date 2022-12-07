@@ -1,0 +1,7 @@
+C:\Users\79515\Desktop\SOAP,REST,gRPC\PumpService\PumpService\bin\PumpService.dll.config
+C:\Users\79515\Desktop\SOAP,REST,gRPC\PumpService\PumpService\bin\PumpService.dll
+C:\Users\79515\Desktop\SOAP,REST,gRPC\PumpService\PumpService\bin\PumpService.pdb
+C:\Users\79515\Desktop\SOAP,REST,gRPC\PumpService\PumpService\obj\Debug\PumpService.csproj.AssemblyReference.cache
+C:\Users\79515\Desktop\SOAP,REST,gRPC\PumpService\PumpService\obj\Debug\PumpService.csproj.CoreCompileInputs.cache
+C:\Users\79515\Desktop\SOAP,REST,gRPC\PumpService\PumpService\obj\Debug\PumpService.dll
+C:\Users\79515\Desktop\SOAP,REST,gRPC\PumpService\PumpService\obj\Debug\PumpService.pdb
