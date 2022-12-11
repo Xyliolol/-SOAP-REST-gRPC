@@ -1,0 +1,8 @@
+C:\Users\79515\Desktop\SOAP,REST,gRPC\PumpService\PumpClient\bin\Debug\PumpClient.exe.config
+C:\Users\79515\Desktop\SOAP,REST,gRPC\PumpService\PumpClient\bin\Debug\PumpClient.exe
+C:\Users\79515\Desktop\SOAP,REST,gRPC\PumpService\PumpClient\bin\Debug\PumpClient.pdb
+C:\Users\79515\Desktop\SOAP,REST,gRPC\PumpService\PumpClient\obj\Debug\PumpClient.csproj.AssemblyReference.cache
+C:\Users\79515\Desktop\SOAP,REST,gRPC\PumpService\PumpClient\obj\Debug\PumpClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\79515\Desktop\SOAP,REST,gRPC\PumpService\PumpClient\obj\Debug\PumpClient.csproj.CoreCompileInputs.cache
+C:\Users\79515\Desktop\SOAP,REST,gRPC\PumpService\PumpClient\obj\Debug\PumpClient.exe
+C:\Users\79515\Desktop\SOAP,REST,gRPC\PumpService\PumpClient\obj\Debug\PumpClient.pdb
