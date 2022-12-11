@@ -1,0 +1,3 @@
+obj\Debug\net6.0\Proto/Clinic.cs \
+obj\Debug\net6.0\Proto/ClinicGrpc.cs: C:/Users/79515/.nuget/packages/grpc.tools/2.51.0/build/native/include/google/protobuf/wrappers.proto\
+ Proto/clinic.proto
