@@ -1,0 +1,6 @@
+obj\Debug\net7.0\Protos/Clinic.cs \
+obj\Debug\net7.0\Protos/ClinicGrpc.cs: C:/Users/79515/.nuget/packages/grpc.tools/2.50.0/build/native/include/google/protobuf/wrappers.proto\
+ google/api/http.proto\
+ C:/Users/79515/.nuget/packages/grpc.tools/2.50.0/build/native/include/google/protobuf/descriptor.proto\
+ google/api/annotations.proto\
+ Protos/clinic.proto

@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClinicServiceV2</name>
+    </assembly>
+    <members>
+        <member name="T:ClinicServiceNamespace.ClinicReflection">
+            <summary>Holder for reflection information generated from Protos/clinic.proto</summary>
+        </member>
+        <member name="P:ClinicServiceNamespace.ClinicReflection.Descriptor">
+            <summary>File descriptor for Protos/clinic.proto</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.CreateClientRequest.DocumentFieldNumber">
+            <summary>Field number for the "document" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.CreateClientRequest.SurnameFieldNumber">
+            <summary>Field number for the "surname" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.CreateClientRequest.FirstNameFieldNumber">
+            <summary>Field number for the "firstName" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.CreateClientRequest.PatronymicFieldNumber">
+            <summary>Field number for the "patronymic" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.CreateClientResponse.ClientIdFieldNumber">
+            <summary>Field number for the "clientId" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.CreateClientResponse.ErrCodeFieldNumber">
+            <summary>Field number for the "errCode" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.CreateClientResponse.ErrMessageFieldNumber">
+            <summary>Field number for the "errMessage" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.UpdateClientRequest.ClientIdFieldNumber">
+            <summary>Field number for the "clientId" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.UpdateClientRequest.DocumentFieldNumber">
+            <summary>Field number for the "document" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.UpdateClientRequest.SurnameFieldNumber">
+            <summary>Field number for the "surname" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.UpdateClientRequest.FirstNameFieldNumber">
+            <summary>Field number for the "firstName" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.UpdateClientRequest.PatronymicFieldNumber">
+            <summary>Field number for the "patronymic" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.UpdateClientResponse.ErrCodeFieldNumber">
+            <summary>Field number for the "errCode" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.UpdateClientResponse.ErrMessageFieldNumber">
+            <summary>Field number for the "errMessage" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.DeleteClientRequest.ClientIdFieldNumber">
+            <summary>Field number for the "clientId" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.DeleteClientResponse.ErrCodeFieldNumber">
+            <summary>Field number for the "errCode" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.DeleteClientResponse.ErrMessageFieldNumber">
+            <summary>Field number for the "errMessage" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.GetClientByIdRequest.ClientIdFieldNumber">
+            <summary>Field number for the "clientId" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.GetClientByIdResponse.ClientFieldNumber">
+            <summary>Field number for the "client" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.GetClientByIdResponse.ErrCodeFieldNumber">
+            <summary>Field number for the "errCode" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.GetClientByIdResponse.ErrMessageFieldNumber">
+            <summary>Field number for the "errMessage" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.ClientResponse.ClientIdFieldNumber">
+            <summary>Field number for the "clientId" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.ClientResponse.DocumentFieldNumber">
+            <summary>Field number for the "document" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.ClientResponse.SurnameFieldNumber">
+            <summary>Field number for the "surname" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.ClientResponse.FirstNameFieldNumber">
+            <summary>Field number for the "firstName" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.ClientResponse.PatronymicFieldNumber">
+            <summary>Field number for the "patronymic" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.GetClientsResponse.ClientsFieldNumber">
+            <summary>Field number for the "clients" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.GetClientsResponse.ErrCodeFieldNumber">
+            <summary>Field number for the "errCode" field.</summary>
+        </member>
+        <member name="F:ClinicServiceNamespace.GetClientsResponse.ErrMessageFieldNumber">
+            <summary>Field number for the "errMessage" field.</summary>
+        </member>
+        <member name="P:ClinicServiceNamespace.ClinicService.Descriptor">
+            <summary>Service descriptor</summary>
+        </member>
+        <member name="T:ClinicServiceNamespace.ClinicService.ClinicServiceBase">
+            <summary>Base class for server-side implementations of ClinicService</summary>
+        </member>
+        <member name="M:ClinicServiceNamespace.ClinicService.BindService(ClinicServiceNamespace.ClinicService.ClinicServiceBase)">
+            <summary>Creates service definition that can be registered with a server</summary>
+            <param name="serviceImpl">An object implementing the server-side handling logic.</param>
+        </member>
+        <member name="M:ClinicServiceNamespace.ClinicService.BindService(Grpc.Core.ServiceBinderBase,ClinicServiceNamespace.ClinicService.ClinicServiceBase)">
+            <summary>Register service method with a service binder with or without implementation. Useful when customizing the service binding logic.
+            Note: this method is part of an experimental API that can change or be removed without any prior notice.</summary>
+            <param name="serviceBinder">Service methods will be bound by calling <c>AddMethod</c> on this object.</param>
+            <param name="serviceImpl">An object implementing the server-side handling logic.</param>
+        </member>
+    </members>
+</doc>
