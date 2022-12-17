@@ -94,3 +94,9 @@ C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicService\obj\Debug\net6
 C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.pdb
 C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.genruntimeconfig.cache
 C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicService\obj\Debug\net6.0\ref\ClinicService.dll
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicService\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicService\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicService\bin\Debug\net6.0\NLog.dll
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicService\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicService\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
