@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicService", "ClinicService\ClinicService.csproj", "{4BDE371A-477C-46B9-A7C3-765FA5DADE87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicService", "ClinicService\ClinicService.csproj", "{4BDE371A-477C-46B9-A7C3-765FA5DADE87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicService.Data", "ClinicServiceData\ClinicService.Data.csproj", "{AAA9FBA2-242A-4AAB-8EDE-ED793BA90052}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicService.Data", "ClinicServiceData\ClinicService.Data.csproj", "{AAA9FBA2-242A-4AAB-8EDE-ED793BA90052}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicClient", "ClinicServiceClient\ClinicClient.csproj", "{DFC90D07-E582-4BC5-86E1-8DB9E715C7C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicClient", "ClinicServiceClient\ClinicClient.csproj", "{DFC90D07-E582-4BC5-86E1-8DB9E715C7C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicServiceV2", "ClinicServiceV2\ClinicServiceV2.csproj", "{5CA872C3-375D-4D79-A891-A1318A908D18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{DFC90D07-E582-4BC5-86E1-8DB9E715C7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFC90D07-E582-4BC5-86E1-8DB9E715C7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFC90D07-E582-4BC5-86E1-8DB9E715C7C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA872C3-375D-4D79-A891-A1318A908D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA872C3-375D-4D79-A891-A1318A908D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA872C3-375D-4D79-A891-A1318A908D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA872C3-375D-4D79-A891-A1318A908D18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
