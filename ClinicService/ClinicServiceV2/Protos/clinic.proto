@@ -13,14 +13,8 @@ service ClinicService{
 	rpc CreateClinet (CreateClientRequest) returns (CreateClientResponse);
 	rpc UpdateClient (UpdateClientRequest) returns (UpdateClientResponse);
 	rpc DeleteClient (DeleteClientRequest) returns (DeleteClientResponse);
-	rpc GetClientById (GetClientByIdRequest) returns (ClientResponse)
-    {
-        option (google.api.http)={
-            post: "/api/clientById",
-            body: "*",
-            response_body : "client"
-        };
-    }
+	rpc GetClientById (GetClientByIdRequest) returns (ClientResponse);
+   
 	rpc GetClients (GetClientsRequest) returns (GetClientsResponse)
     {
         option (google.api.http)={
