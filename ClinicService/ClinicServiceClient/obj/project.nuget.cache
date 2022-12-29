@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "MmE5K50FsKEtGWaZtorFTXmYVTthkjbiEqO3GTiKs84l7T0O9PJmRxqyUMHn0oMaiknOh9Deva+qAMfvkTqmFg==",
+  "dgSpecHash": "Inu80XogcK8qCEp+6EBW9hQhspG/H14ZpQpwmoQwwoYrlD/9iCHlxlIwUXUd/Hr0MYIhSdAcO8MxdASEJJi1vA==",
   "success": true,
   "projectFilePath": "C:\\Users\\79515\\Desktop\\SOAP,REST,gRPC\\ClinicService\\ClinicServiceClient\\ClinicClient.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\79515\\.nuget\\packages\\google.protobuf\\3.21.10\\google.protobuf.3.21.10.nupkg.sha512",
+    "C:\\Users\\79515\\.nuget\\packages\\grpc.core.api\\2.50.0\\grpc.core.api.2.50.0.nupkg.sha512",
+    "C:\\Users\\79515\\.nuget\\packages\\grpc.net.client\\2.50.0\\grpc.net.client.2.50.0.nupkg.sha512",
+    "C:\\Users\\79515\\.nuget\\packages\\grpc.net.common\\2.50.0\\grpc.net.common.2.50.0.nupkg.sha512",
+    "C:\\Users\\79515\\.nuget\\packages\\grpc.tools\\2.51.0\\grpc.tools.2.51.0.nupkg.sha512",
+    "C:\\Users\\79515\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\79515\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }

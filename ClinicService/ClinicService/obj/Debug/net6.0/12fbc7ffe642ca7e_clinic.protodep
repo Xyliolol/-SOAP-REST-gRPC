@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos/Clinic.cs \
+obj\Debug\net6.0\Protos/ClinicGrpc.cs: Protos/clinic.proto

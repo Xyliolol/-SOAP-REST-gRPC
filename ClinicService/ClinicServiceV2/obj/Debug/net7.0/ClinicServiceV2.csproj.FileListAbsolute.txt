@@ -85,3 +85,5 @@ C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceV2\bin\Debug\ne
 C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceV2\obj\Debug\net7.0\ClinicServiceV2.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceV2\bin\Debug\net7.0\ClinicServiceV2.xml
 C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceV2\obj\Debug\net7.0\ClinicServiceV2.xml
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceV2\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\79515\Desktop\SOAP,REST,gRPC\ClinicService\ClinicServiceV2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll

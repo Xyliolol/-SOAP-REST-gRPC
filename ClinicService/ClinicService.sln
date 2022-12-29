@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicService.Data", "Clini
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicClient", "ClinicServiceClient\ClinicClient.csproj", "{DFC90D07-E582-4BC5-86E1-8DB9E715C7C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicServiceV2", "ClinicServiceV2\ClinicServiceV2.csproj", "{5CA872C3-375D-4D79-A891-A1318A908D18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicServiceV2", "ClinicServiceV2\ClinicServiceV2.csproj", "{5CA872C3-375D-4D79-A891-A1318A908D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtSample", "JwtSample\JwtSample.csproj", "{972A2FFB-C1FA-438B-AFC4-AF1107AD203F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountSample", "AccountSample\AccountSample.csproj", "{D9A4A38D-059A-453C-A908-A5FE12035D9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{5CA872C3-375D-4D79-A891-A1318A908D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CA872C3-375D-4D79-A891-A1318A908D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CA872C3-375D-4D79-A891-A1318A908D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972A2FFB-C1FA-438B-AFC4-AF1107AD203F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972A2FFB-C1FA-438B-AFC4-AF1107AD203F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972A2FFB-C1FA-438B-AFC4-AF1107AD203F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972A2FFB-C1FA-438B-AFC4-AF1107AD203F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A4A38D-059A-453C-A908-A5FE12035D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A4A38D-059A-453C-A908-A5FE12035D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A4A38D-059A-453C-A908-A5FE12035D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A4A38D-059A-453C-A908-A5FE12035D9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
