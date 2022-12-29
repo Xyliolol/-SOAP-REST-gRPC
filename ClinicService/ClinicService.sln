@@ -11,9 +11,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicClient", "ClinicServi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicServiceV2", "ClinicServiceV2\ClinicServiceV2.csproj", "{5CA872C3-375D-4D79-A891-A1318A908D18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtSample", "JwtSample\JwtSample.csproj", "{972A2FFB-C1FA-438B-AFC4-AF1107AD203F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JwtSample", "JwtSample\JwtSample.csproj", "{972A2FFB-C1FA-438B-AFC4-AF1107AD203F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountSample", "AccountSample\AccountSample.csproj", "{D9A4A38D-059A-453C-A908-A5FE12035D9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountSample", "AccountSample\AccountSample.csproj", "{D9A4A38D-059A-453C-A908-A5FE12035D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootService", "RootService\RootService.csproj", "{FA77CA14-BBDB-441C-942D-FC24FA0348EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleService", "SampleService\SampleService.csproj", "{FCB7024B-372A-4896-BE6B-6EF3A43631FF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FA77CA14-BBDB-441C-942D-FC24FA0348EA} = {FA77CA14-BBDB-441C-942D-FC24FA0348EA}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +52,14 @@ Global
 		{D9A4A38D-059A-453C-A908-A5FE12035D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9A4A38D-059A-453C-A908-A5FE12035D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9A4A38D-059A-453C-A908-A5FE12035D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA77CA14-BBDB-441C-942D-FC24FA0348EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA77CA14-BBDB-441C-942D-FC24FA0348EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA77CA14-BBDB-441C-942D-FC24FA0348EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA77CA14-BBDB-441C-942D-FC24FA0348EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB7024B-372A-4896-BE6B-6EF3A43631FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB7024B-372A-4896-BE6B-6EF3A43631FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB7024B-372A-4896-BE6B-6EF3A43631FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB7024B-372A-4896-BE6B-6EF3A43631FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

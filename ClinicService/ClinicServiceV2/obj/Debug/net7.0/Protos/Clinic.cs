@@ -45,17 +45,16 @@ namespace ClinicServiceNamespace {
             "cGF0cm9ueW1pYxgFIAEoCSITChFHZXRDbGllbnRzUmVxdWVzdCJhChJHZXRD",
             "bGllbnRzUmVzcG9uc2USJgoHY2xpZW50cxgBIAMoCzIVLnByb3RvLkNsaWVu",
             "dFJlc3BvbnNlEg8KB2VyckNvZGUYAiABKAUSEgoKZXJyTWVzc2FnZRgDIAEo",
-            "CTKsAwoNQ2xpbmljU2VydmljZRJHCgxDcmVhdGVDbGluZXQSGi5wcm90by5D",
+            "CTKIAwoNQ2xpbmljU2VydmljZRJHCgxDcmVhdGVDbGluZXQSGi5wcm90by5D",
             "cmVhdGVDbGllbnRSZXF1ZXN0GhsucHJvdG8uQ3JlYXRlQ2xpZW50UmVzcG9u",
             "c2USRwoMVXBkYXRlQ2xpZW50EhoucHJvdG8uVXBkYXRlQ2xpZW50UmVxdWVz",
             "dBobLnByb3RvLlVwZGF0ZUNsaWVudFJlc3BvbnNlEkcKDERlbGV0ZUNsaWVu",
             "dBIaLnByb3RvLkRlbGV0ZUNsaWVudFJlcXVlc3QaGy5wcm90by5EZWxldGVD",
-            "bGllbnRSZXNwb25zZRJnCg1HZXRDbGllbnRCeUlkEhsucHJvdG8uR2V0Q2xp",
-            "ZW50QnlJZFJlcXVlc3QaFS5wcm90by5DbGllbnRSZXNwb25zZSIigtPkkwIc",
-            "Ig8vYXBpL2NsaWVudEJ5SWQ6ASpiBmNsaWVudBJXCgpHZXRDbGllbnRzEhgu",
-            "cHJvdG8uR2V0Q2xpZW50c1JlcXVlc3QaGS5wcm90by5HZXRDbGllbnRzUmVz",
-            "cG9uc2UiFILT5JMCDhIML2FwaS9jbGllbnRzQhmqAhZDbGluaWNTZXJ2aWNl",
-            "TmFtZXNwYWNlYgZwcm90bzM="));
+            "bGllbnRSZXNwb25zZRJDCg1HZXRDbGllbnRCeUlkEhsucHJvdG8uR2V0Q2xp",
+            "ZW50QnlJZFJlcXVlc3QaFS5wcm90by5DbGllbnRSZXNwb25zZRJXCgpHZXRD",
+            "bGllbnRzEhgucHJvdG8uR2V0Q2xpZW50c1JlcXVlc3QaGS5wcm90by5HZXRD",
+            "bGllbnRzUmVzcG9uc2UiFILT5JMCDhIML2FwaS9jbGllbnRzQhmqAhZDbGlu",
+            "aWNTZXJ2aWNlTmFtZXNwYWNlYgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.WellKnownTypes.WrappersReflection.Descriptor, global::Google.Api.AnnotationsReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
